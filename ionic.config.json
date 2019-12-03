@@ -1,5 +1,7 @@
 {
   "name": "ionic4-googlemaps-directions",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
